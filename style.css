@@ -67,7 +67,16 @@
     color: #fff;
     justify-content: space-between;
     font-family: 'Playfair Display', serif;
+    cursor: pointer;
+    transition: ease-in-out 300ms;
+
 }
+.main .hero-page ul li:hover{
+    color: #A97A27;
+
+}
+
+
 
 .main .hero-page a{
     padding: 10px 38px;
