@@ -98,7 +98,7 @@
 }
 .main .bg{
     height: 90vh;
-    width: 280px;
+    width: 300px;
     background-color: rgba(67,83, 101, 0.3);
     position: absolute;
     z-index: 10;
